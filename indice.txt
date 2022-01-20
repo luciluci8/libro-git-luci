@@ -1,4 +1,4 @@
 Capítulo 1: Introducción a Git
 Capítulo 2: FLujo de tranbajo básico
 Capítulo 3: Repositorios remotos
-Capitulo 5: Conceptos avanzados
+
